@@ -17,6 +17,7 @@ npm start
 - After starting the project, it will automatically open in your default browser on `localhost:3000`
 - This app only has one route and here you can see all elements
 - You can also search for specific item by entering a correct id
+- Tests are available try them using `npm test` or run indiviually as `npm test SingleCard`
 
 ## 🧔🏽 Author
 
