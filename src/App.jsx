@@ -10,8 +10,9 @@ const App = () => {
   return (
     <div className="App">
       <Container maxWidth={false}>
-        <h1 className="main-title">Check out some of the Reviews</h1>
+        <h1 className="main-title">Welcome to a Simple Reviews UI</h1>
         <SearchbyId />
+        <h1 className="main-title">Check out some of the Reviews</h1>
         <CardsMapper />
       </Container>
     </div>
