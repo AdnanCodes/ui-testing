@@ -39,7 +39,7 @@ const SingleCard = ({
             )}
           </Stack>
           <Typography sx={{ fontSize: 14 }} color="text.secondary">
-            Publish date: {isDateValid ? date : "No Date availaable"}
+            Publish date: {isDateValid ? date : "No Date available"}
           </Typography>
           <Divider sx={{ paddingTop: 2 }} />
           <Typography sx={{ paddingTop: 2 }} variant="body1">

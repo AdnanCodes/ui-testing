@@ -15,9 +15,6 @@ const CardsMapper = () => {
       if (result.status === 200) {
         setData(result.data);
         setValidResponse(true);
-      } else {
-        setValidResponse(false);
-        setLoading(false);
       }
       setLoading(false);
     } catch {
