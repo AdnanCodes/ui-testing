@@ -7,7 +7,7 @@ This project was built using Node V16.4.0 and NPM 7.18.1 along with Yarn 1.22.5,
 ```sh
 npm install
 
-- Create your env file with these respective keys REACT_APP_API_KEY & REACT_APP_API_URL
+#IMPORTANT: Create your env file with these respective keys REACT_APP_API_KEY & REACT_APP_API_URL
 
 npm start
 ```
